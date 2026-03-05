@@ -58,4 +58,5 @@ plt.figure()
 subject_avg.plot(kind="bar")
 plt.title("Average Marks per Subject")
 plt.ylabel("Marks")
+
 plt.show()
